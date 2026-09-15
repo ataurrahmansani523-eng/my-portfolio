@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Cinematic Portfolio",
+  "description": "An ultra-luxury golden + black cinematic portfolio website featuring immersive background audio, smooth glassmorphic layers, and the high-fidelity SaniMusic YouTube Music Player and Creator Studio Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
