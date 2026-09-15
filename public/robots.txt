@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://ataurrahman.rf.gd/sitemap.xml
+Sitemap: https://ataurrahmansani.vercel.app/sitemap.xml

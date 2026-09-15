@@ -355,7 +355,7 @@ export default function SeoDominationHub({ onBack }: SeoDominationHubProps) {
                       {anchor}
                     </span>
                     <button 
-                      onClick={() => handleCopy(`<a href="https://ataurrahman.rf.gd" title="${anchor}">${anchor}</a>`, `anchor-${idx}`)}
+                      onClick={() => handleCopy(`<a href="https://ataurrahmansani.vercel.app" title="${anchor}">${anchor}</a>`, `anchor-${idx}`)}
                       className="text-zinc-500 hover:text-[#C8A24A] transition-colors"
                       title="Copy Anchor Tag HTML"
                     >
@@ -629,7 +629,7 @@ export default function SeoDominationHub({ onBack }: SeoDominationHubProps) {
                       <div>
                         <span className="text-[#C8A24A]/70 block font-semibold">[CANONICAL STRATEGY]</span>
                         <span className="text-zinc-400 block p-1 font-sans">
-                          Primary root node canonical mapping to: `https://ataurrahman.rf.gd/` index routes to combine incoming link authority directly.
+                          Primary root node canonical mapping to: `https://ataurrahmansani.vercel.app/` index routes to combine incoming link authority directly.
                         </span>
                       </div>
                     </div>
@@ -653,9 +653,9 @@ export default function SeoDominationHub({ onBack }: SeoDominationHubProps) {
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://ataurrahman.rf.gd/#person",
+      "@id": "https://ataurrahmansani.vercel.app/#person",
       "name": "Ataur Rahman Sani",
-      "url": "https://ataurrahman.rf.gd",
+      "url": "https://ataurrahmansani.vercel.app",
       "sameAs": [
         "https://github.com/ataurrahmansani523",
         "https://www.youtube.com/@SaniMusic",
@@ -673,11 +673,11 @@ export default function SeoDominationHub({ onBack }: SeoDominationHubProps) {
     },
     {
       "@type": "WebSite",
-      "@id": "https://ataurrahman.rf.gd/#website",
-      "url": "https://ataurrahman.rf.gd",
+      "@id": "https://ataurrahmansani.vercel.app/#website",
+      "url": "https://ataurrahmansani.vercel.app",
       "name": "Ataur Rahman Sani Official Website",
       "publisher": {
-        "@id": "https://ataurrahman.rf.gd/#person"
+        "@id": "https://ataurrahmansani.vercel.app/#person"
       }
     }
   ]
